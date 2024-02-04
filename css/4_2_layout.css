@@ -1,0 +1,65 @@
+/* .container{
+     background-color: aquamarine; 
+} */
+.head
+{
+    background-color: black;
+    color: white;
+}
+.menu a
+{
+    text-decoration: none;
+    color: white;
+    margin-left: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+a:hover
+{
+    background-color:aqua;
+}
+.main-head
+{
+    min-height: 400px;
+    background-color: black;
+    color: white;
+   }
+
+/* .box{
+    
+    text-align: center;
+    min-height: 200px;
+   line-height: 200px;
+   background-color: lightslategrey;
+    
+} */
+.img
+{
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
+    
+}
+.main_Quotes
+{
+    background-color: lightgrey;
+}
+.quotes
+{
+    /* background-color: bisque; */
+  padding: 120px;
+  text-align: center;
+}
+.bb
+{
+    text-align: center;
+}
+.btn
+{
+    border: 2px solid black;
+}
+.div
+{
+    text-align: center;
+    color: white;
+}
